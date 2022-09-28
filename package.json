@@ -1,0 +1,23 @@
+{
+  "name": "clika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian-007391/ChemistryAR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrian-007391/ChemistryAR/issues"
+  },
+  "homepage": "https://Adrian-007391.github.io/ChemistryAR",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
