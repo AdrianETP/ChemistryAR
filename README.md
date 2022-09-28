@@ -8,4 +8,6 @@
 
 ## Markers:
 
-![](./patterns/Kanji_marker_ARjs.png)
+![](./patterns/cloro.png "chlorus")
+![](./patterns/oxigeno.png "oxygen")
+![](./patterns/sodio.png "sodium")
