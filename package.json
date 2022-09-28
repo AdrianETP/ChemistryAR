@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "path": "./index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages build"
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
