@@ -7,3 +7,5 @@
   3. Try moving the market, rotating it, moving it to see all the posible angles
 
 ## Markers:
+
+[]("./patterns/Kanji_marker_ARjs.png")
