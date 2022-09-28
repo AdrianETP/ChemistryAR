@@ -8,4 +8,4 @@
 
 ## Markers:
 
-[]("./patterns/Kanji_marker_ARjs.png")
+![]("./patterns/Kanji_marker_ARjs.png")
